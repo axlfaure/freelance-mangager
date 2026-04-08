@@ -1,0 +1,524 @@
+[
+  {
+    "id": "1775232685674",
+    "date": "2025-01-05",
+    "client": "Alpes Ressources",
+    "discipline": "Design",
+    "amount": "250",
+    "project": "Carte de voeux 2025",
+    "notes": ""
+  },
+  {
+    "id": "1775232720654",
+    "date": "2025-10-15",
+    "client": "Alpes Ressources",
+    "discipline": "Photo",
+    "amount": "100",
+    "project": "Photo Camille + intégration",
+    "notes": ""
+  },
+  {
+    "id": "1775232826557",
+    "date": "2025-06-30",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "150",
+    "project": "Modifs flyer",
+    "notes": ""
+  },
+  {
+    "id": "1775232904646",
+    "date": "2025-04-30",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "400",
+    "project": "Logotype marque filles FAMES",
+    "notes": ""
+  },
+  {
+    "id": "1775232946504",
+    "date": "2025-08-01",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "750",
+    "project": "Design d'une newsletter",
+    "notes": ""
+  },
+  {
+    "id": "1775232993425",
+    "date": "2025-05-28",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "875",
+    "project": "Gabarit LinkedIn etc",
+    "notes": ""
+  },
+  {
+    "id": "1775233059649",
+    "date": "2025-04-08",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "175",
+    "project": "Modifs flyer",
+    "notes": ""
+  },
+  {
+    "id": "1775233104154",
+    "date": "2025-08-01",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "50",
+    "project": "Modifs flyer",
+    "notes": ""
+  },
+  {
+    "id": "1775233157819",
+    "date": "2025-05-28",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "300",
+    "project": "Etiquette + modfis flyer",
+    "notes": ""
+  },
+  {
+    "id": "1775233203079",
+    "date": "2025-09-30",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "1650",
+    "project": "Prestations septembre",
+    "notes": ""
+  },
+  {
+    "id": "1775233270880",
+    "date": "2025-01-21",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "80.45",
+    "project": "Décembre",
+    "notes": ""
+  },
+  {
+    "id": "1775233295853",
+    "date": "2025-02-22",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "173",
+    "project": "Janvier",
+    "notes": ""
+  },
+  {
+    "id": "1775233312558",
+    "date": "2025-03-14",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "107",
+    "project": "Fevrier",
+    "notes": ""
+  },
+  {
+    "id": "1775233338983",
+    "date": "2025-03-27",
+    "client": "Multiplan",
+    "discipline": "Design",
+    "amount": "130",
+    "project": "Vectorisation",
+    "notes": ""
+  },
+  {
+    "id": "1775233431262",
+    "date": "2025-01-20",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "200",
+    "project": "Carte de voeux 2024",
+    "notes": ""
+  },
+  {
+    "id": "1775233460435",
+    "date": "2025-04-08",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "300",
+    "project": "Menu repas des ainés",
+    "notes": ""
+  },
+  {
+    "id": "1775233514750",
+    "date": "2025-07-24",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "75",
+    "project": "Réal d'un panneau",
+    "notes": ""
+  },
+  {
+    "id": "1775233539457",
+    "date": "2025-07-05",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "900",
+    "project": "Bulletin municipal",
+    "notes": ""
+  },
+  {
+    "id": "1775233587505",
+    "date": "2025-12-16",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "225",
+    "project": "Carte de voeux 2026",
+    "notes": ""
+  },
+  {
+    "id": "1775233632554",
+    "date": "2025-06-25",
+    "client": "Comité Des Fêtes de Vinay",
+    "discipline": "Design",
+    "amount": "3500",
+    "project": "Programme Rosière",
+    "notes": ""
+  },
+  {
+    "id": "1775233659412",
+    "date": "2025-08-12",
+    "client": "Comité Des Fêtes de Vinay",
+    "discipline": "Design",
+    "amount": "725",
+    "project": "Bâche podium",
+    "notes": ""
+  },
+  {
+    "id": "1775233719290",
+    "date": "2025-12-04",
+    "client": "La Marelle",
+    "discipline": "Design",
+    "amount": "635",
+    "project": "Kakemono",
+    "notes": ""
+  },
+  {
+    "id": "1775233817763",
+    "date": "2025-05-03",
+    "client": "Quemera",
+    "discipline": "Web",
+    "amount": "2275",
+    "project": "Acompte site web",
+    "notes": ""
+  },
+  {
+    "id": "1775233852421",
+    "date": "2025-08-03",
+    "client": "CMI",
+    "discipline": "Design",
+    "amount": "350",
+    "project": "Flyer rando",
+    "notes": ""
+  },
+  {
+    "id": "1775233956677",
+    "date": "2025-04-17",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "380",
+    "project": "Acompte Timelapse chantier",
+    "notes": ""
+  },
+  {
+    "id": "1775233992607",
+    "date": "2025-10-15",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "1000",
+    "project": "Solde timelapse chantier",
+    "notes": ""
+  },
+  {
+    "id": "1775234054163",
+    "date": "2025-09-29",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "400",
+    "project": "Interview villeurbanne",
+    "notes": ""
+  },
+  {
+    "id": "1775234114204",
+    "date": "2025-11-04",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "2290",
+    "project": "Carbologues - Captation",
+    "notes": ""
+  },
+  {
+    "id": "1775234131932",
+    "date": "2025-11-04",
+    "client": "Vinci Facilities",
+    "discipline": "Motion",
+    "amount": "4050",
+    "project": "Carbologues - Motion Design",
+    "notes": ""
+  },
+  {
+    "id": "1775234149697",
+    "date": "2025-11-17",
+    "client": "Vinci Facilities",
+    "discipline": "Motion",
+    "amount": "3015",
+    "project": "SEVES",
+    "notes": ""
+  },
+  {
+    "id": "1775234257474",
+    "date": "2025-07-02",
+    "client": "Vinci Facilities",
+    "discipline": "Photo",
+    "amount": "5740",
+    "project": "Shooting Photo",
+    "notes": ""
+  },
+  {
+    "id": "1775234285188",
+    "date": "2025-09-29",
+    "client": "Vinci Facilities",
+    "discipline": "Design",
+    "amount": "350",
+    "project": "Poster règles d'or",
+    "notes": ""
+  },
+  {
+    "id": "1775234419568",
+    "date": "2025-03-31",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "1500",
+    "project": "Portfolio",
+    "notes": ""
+  },
+  {
+    "id": "1775234447102",
+    "date": "2025-04-22",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "75",
+    "project": "Affiche A3",
+    "notes": ""
+  },
+  {
+    "id": "1775234485762",
+    "date": "2025-08-01",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "500",
+    "project": "Visuels stand CEA",
+    "notes": ""
+  },
+  {
+    "id": "1775234517021",
+    "date": "2025-06-06",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "225",
+    "project": "3 fiches startup",
+    "notes": ""
+  },
+  {
+    "id": "1775234537938",
+    "date": "2025-06-18",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "225",
+    "project": "3 fiches startup",
+    "notes": ""
+  },
+  {
+    "id": "1775234570435",
+    "date": "2025-05-28",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "400",
+    "project": "Kakemono startups",
+    "notes": ""
+  },
+  {
+    "id": "1775234724836",
+    "date": "2025-10-13",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "109",
+    "project": "Septembre",
+    "notes": ""
+  },
+  {
+    "id": "1775234749516",
+    "date": "2025-11-13",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "521",
+    "project": "Octobre",
+    "notes": ""
+  },
+  {
+    "id": "1775236342588",
+    "date": "2026-01-07",
+    "client": "Alpes Ressources",
+    "discipline": "Design",
+    "amount": "400",
+    "project": "Carte de voeux 2026",
+    "notes": ""
+  },
+  {
+    "id": "1775236366915",
+    "date": "2026-01-07",
+    "client": "Vinci Facilities",
+    "discipline": "Photo",
+    "amount": "720",
+    "project": "Shooting Décembre",
+    "notes": ""
+  },
+  {
+    "id": "1775236417773",
+    "date": "2026-02-01",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "600",
+    "project": "Prestations janvier",
+    "notes": ""
+  },
+  {
+    "id": "1775236438137",
+    "date": "2026-02-09",
+    "client": "Quemera",
+    "discipline": "Web",
+    "amount": "2275",
+    "project": "Site web Aides et Soins",
+    "notes": ""
+  },
+  {
+    "id": "1775236469255",
+    "date": "2026-04-01",
+    "client": "Quemera",
+    "discipline": "Web",
+    "amount": "2350",
+    "project": "Site web Quemera",
+    "notes": ""
+  },
+  {
+    "id": "1775236487015",
+    "date": "2026-03-10",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "2850",
+    "project": "Vis ma vie d'alternant",
+    "notes": ""
+  },
+  {
+    "id": "1775236540529",
+    "date": "2026-04-01",
+    "client": "CEA - FAMES",
+    "discipline": "Design",
+    "amount": "1325",
+    "project": "Prestations mars",
+    "notes": ""
+  },
+  {
+    "id": "1775237716684",
+    "date": "2024-01-11",
+    "client": "Yelaa",
+    "discipline": "Design",
+    "amount": "300",
+    "project": "Identité visuelle",
+    "notes": ""
+  },
+  {
+    "id": "1775237741103",
+    "date": "2024-03-27",
+    "client": "Alpes Ressources",
+    "discipline": "Photo",
+    "amount": "360",
+    "project": "Shooting photo",
+    "notes": ""
+  },
+  {
+    "id": "1775237774135",
+    "date": "2024-07-11",
+    "client": "Comité Des Fêtes de Vinay",
+    "discipline": "Design",
+    "amount": "925",
+    "project": "Programme",
+    "notes": ""
+  },
+  {
+    "id": "1775237793972",
+    "date": "2024-07-11",
+    "client": "Comité Des Fêtes de Vinay",
+    "discipline": "Web",
+    "amount": "1000",
+    "project": "Site web CDF",
+    "notes": ""
+  },
+  {
+    "id": "1775237816736",
+    "date": "2024-09-04",
+    "client": "Vinci Facilities",
+    "discipline": "Motion",
+    "amount": "1900",
+    "project": "Motion design fiertés",
+    "notes": ""
+  },
+  {
+    "id": "1775237837420",
+    "date": "2024-09-04",
+    "client": "Vinci Facilities",
+    "discipline": "Video",
+    "amount": "1565",
+    "project": "Interview Intelia",
+    "notes": ""
+  },
+  {
+    "id": "1775237861975",
+    "date": "2024-10-28",
+    "client": "CEA - Startups",
+    "discipline": "Design",
+    "amount": "400",
+    "project": "Kakemono startups",
+    "notes": ""
+  },
+  {
+    "id": "1775237877926",
+    "date": "2024-10-31",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "530",
+    "project": "Octobre",
+    "notes": ""
+  },
+  {
+    "id": "1775237899429",
+    "date": "2024-11-30",
+    "client": "Créalpes",
+    "discipline": "Web",
+    "amount": "177",
+    "project": "Novembre",
+    "notes": ""
+  },
+  {
+    "id": "1775237914695",
+    "date": "2024-12-05",
+    "client": "Commune de Saint-Gervais",
+    "discipline": "Design",
+    "amount": "900",
+    "project": "Bulletin municipal",
+    "notes": ""
+  },
+  {
+    "id": "1775237934603",
+    "date": "2024-10-09",
+    "client": "Comité Des Fêtes de Vinay",
+    "discipline": "Web",
+    "amount": "310",
+    "project": "Formation web",
+    "notes": ""
+  }
+]
